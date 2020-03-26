@@ -1,5 +1,3 @@
-console.log('javascript executed');
-
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const loc = document.querySelector('#msg1')
